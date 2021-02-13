@@ -2,3 +2,4 @@
 ez egy szöveg cuc lesz 
  hoza adok még egy két szót ez a tesztelés része
  en is hoza modositok
+egy ket szot
